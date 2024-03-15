@@ -8,3 +8,4 @@ This repository includes the data structures learnt and implememented by me in t
 -   Binary Search Tree
 -   AVL Tree
 -   Heap
+-   Trie
