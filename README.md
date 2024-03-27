@@ -9,3 +9,4 @@ This repository includes the data structures learnt and implememented by me in t
 -   AVL Tree
 -   Heap
 -   Trie
+-   Hash
